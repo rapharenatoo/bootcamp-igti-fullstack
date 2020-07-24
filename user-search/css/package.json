@@ -1,0 +1,23 @@
+{
+  "name": "user-search",
+  "version": "1.0.0",
+  "description": "***Desafio 2 do Módulo 1 do Bootcamp FullStack do IGTI***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bllackdev/bootcamp-igti-fullstack/tree/master/user-search"
+  },
+  "keywords": [
+    "user",
+    "search"
+  ],
+  "author": "BllackDev",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
